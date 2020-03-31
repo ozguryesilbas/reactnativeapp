@@ -1,12 +1,11 @@
 import React from "react";
 import {Text, View} from "react-native";
+import Home from './screens/home/home';
 
 class App extends React.Component {
     render() {
         return (
-            <View>
-                <Text>Hello from React Native</Text>
-            </View>
+            <Home/>
         );
     }
 };
