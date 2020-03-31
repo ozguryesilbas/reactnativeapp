@@ -34,6 +34,12 @@ Emulator İOS debug
     CTRL + D
 
 Gitten çekildikten sonra
-    npm install --> node_modeules ü oluşturur
-    çalıştıldığında build klasörünü oluşturur
+    npm install --> node_modeules'ü oluşturur
+    proje örneğin android için çalıştıldığında build klasörünü oluşturur
 
+---------------------------------------------------------------------------------------------------------
+prop types yükledik
+npm install prop-types --save
+
+svg yükledik
+npm install react-native-svg --save
