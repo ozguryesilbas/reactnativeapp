@@ -33,3 +33,7 @@ Emulator Android debug
 Emulator İOS debug
     CTRL + D
 
+Gitten çekildikten sonra
+    npm install --> node_modeules ü oluşturur
+    çalıştıldığında build klasörünü oluşturur
+
